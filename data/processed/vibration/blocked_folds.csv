@@ -1,0 +1,5 @@
+fold,train_start,train_end,val_start,val_end,purge_gap
+1,0,191,200,399,8
+2,0,391,400,599,8
+3,0,591,600,799,8
+4,0,791,800,999,8

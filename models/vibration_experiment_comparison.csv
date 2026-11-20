@@ -1,0 +1,4 @@
+Window Size,Best Epoch,Best Validation Macro F1,Validation Loss,Model Path
+8,10,0.6796604349099576,0.6272736191749573,D:\SHM_PROJECT\models\vibration_lstm_window_8.keras
+16,18,0.6608989131940509,0.6740577816963196,D:\SHM_PROJECT\models\vibration_lstm_window_16.keras
+32,27,0.6294934640522875,0.645641565322876,D:\SHM_PROJECT\models\vibration_lstm_window_32.keras
